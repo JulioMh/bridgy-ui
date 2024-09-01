@@ -1,0 +1,15 @@
+/* custom.css */
+.wallet-adapter-button {
+  width: 100% !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  background-color: #7d40a7 !important; /* Color púrpura */
+  color: white !important;
+  border-radius: 9999px !important; /* Clase rounded-full de Tailwind */
+}
+
+.wallet-adapter-button:hover {
+  background-color: #6b2e94 !important; /* Un tono más oscuro de púrpura para hover */
+}
